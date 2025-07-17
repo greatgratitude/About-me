@@ -1,1 +1,2 @@
-# About-me
+🥀# About-me I AM KELECHI CHIMA JOSHUA
+⛪## I LOVE TO EXPLORE
