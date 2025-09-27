@@ -3,9 +3,11 @@
 
 
 ✴️# WHAT I AM KNOWN FOR:
-I am passionate about handling cyber problems as well as analyzing and solving Macro and Microeconomic problems.
-Skilled in Vulnerability Assessment, Network Security and Security Information and Event Management(SIEM Tool).
-Massive knowledge in Regression Analysis involving Economic Variables.
+I am passionate about handling cyber related problems as well as complex data resolution, analysis and visualization, solving Macro and Microeconomic problems.
+
+
+🩹# Skilled in Vulnerability Assessment, Network Security and Security Information and Event Management(SIEM Tool).
+Massive knowledge in Data Science.
 
 
 
